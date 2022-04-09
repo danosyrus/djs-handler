@@ -3,6 +3,6 @@
 Yet another advanced djs slash command handler made by dano with ❤️
 
 Ultimate, Efficient, Slash command handler for Discord bots.
-## Credits
- Made by : dano
-   Support me for more of this type of stuff!
+# Credits
+Made by : dano#4938<br>
+Support me for more of this type of stuff!
