@@ -1,0 +1,24 @@
+{
+    "name": "djs-handler",
+    "author": "dano#4938",
+    "version": "1.0.0",
+    "main": "main.js",
+    "type": "commonjs",
+    "license": "UNLICENSED",
+    "private": true,
+    "dependencies": {
+        "chalk": "^4.1.2",
+        "discord.js": "^13.6.0"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node main.js"
+    },
+    "_moduleAliases": {
+        "@root": "./",
+        "@config": "./src/config/",
+        "@commands": "./src/commands/",
+        "@events": "./src/events/",
+        "@structures": "./src/structure/"
+    }
+}
