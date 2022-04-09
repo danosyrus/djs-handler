@@ -5,3 +5,5 @@ Ultimate, Efficient, Slash command handler for Discord bots.
 # Credits
 Made by : dano#4938<br>
 Support me and follow me for more this of stuff :)
+
+## Thanks, If You're Using This <3.
