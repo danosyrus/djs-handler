@@ -4,6 +4,8 @@
 - Ultimate, Efficient, Slash command handler for Discord bots.
 ## Setting Up
 - Paste your bot token and owner-id in [config.json](https://github.com/danodee/advanced-djs-handler/blob/main/src/config/config.json)
+- Run `npm i` command to install all required packages
+- Run `node main.js` to start the bot
 ## Credits
 - Made by : dano#4938<br>
 - Start this repo & follow me for more cool & interesting projects :)
