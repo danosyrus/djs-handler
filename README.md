@@ -2,6 +2,9 @@
 ## Advanced djs slash command handler
 - Yet another advanced djs slash command handler made by dano with ❤️<br>
 - Ultimate, Efficient, Slash command handler for Discord bots.
+
+- Еще один продвинутый обработчик слэш-команд djs, сделанный dano с помощью ❤️<br>
+- Максимально эффективный обработчик команд Slash для ботов Discord.
 ## Setting Up
 
 - Paste your bot token and owner-id in [config.json](https://github.com/danodee/advanced-djs-handler/blob/main/src/config/config.json)
