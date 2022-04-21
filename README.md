@@ -16,7 +16,7 @@
 - Выполните команду `npm i` для установки всех необходимых пакетов
 - Запустите `node main.js` для запуска бота
 ## Credits
-- Made by : dano#4938<br>
+- Made by : (dano)[https://github.com/danodee]<br>
 - Start this repo & follow me for more cool & interesting projects :)
 
 ## Thanks, If You're Using This <3.
