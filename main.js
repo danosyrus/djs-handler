@@ -1,4 +1,4 @@
-// Advanced djs slash command handler made with  by dano! [github.com/danodee]
+// Advanced djs slash command handler made with ❤️ by dano! [github.com/danodee]
 require("module-alias/register");
 // ———————————————[Client Requirement]———————————————
 const { Client, Discord, Intents, Collection } = require("discord.js");
