@@ -1,3 +1,4 @@
+// Advanced djs slash command handler made with ❤️ by dano! [github.com/danodee]
 const { readdirSync } = require("fs");
 
 module.exports = async(client) => {
