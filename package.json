@@ -8,15 +8,16 @@
     "private": true,
     "dependencies": {
         "chalk": "^4.1.2",
-        "discord.js": "^13.6.0"
+        "discord.js": "^13.6.0",
+        "module-alias": "^2.2.2"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "node main.js"
     },
     "_moduleAliases": {
-        "@root": "./",
-        "@config": "./src/config/",
+        "@root": "./main.js",
+        "@config": "./src/config/config.json",
         "@commands": "./src/commands/",
         "@events": "./src/events/",
         "@structures": "./src/structure/"
