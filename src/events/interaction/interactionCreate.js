@@ -1,5 +1,5 @@
-const config = require("@config/config");
-const client = require("@root/index");
+const config = require("@config");
+const client = require("@root");
 
 module.exports = {
     name: "interactionCreate",
