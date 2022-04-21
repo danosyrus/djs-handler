@@ -1,4 +1,4 @@
-// Advanced djs slash command handler made by dano! [github.com/danodee]
+// Advanced djs slash command handler made with ❤️ by dano! [github.com/danodee]
 const { green, white, cyanBright } = require("chalk");
 
 module.exports = {
