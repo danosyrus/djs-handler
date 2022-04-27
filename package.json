@@ -1,6 +1,6 @@
 {
     "name": "djs-handler",
-    "author": "dano#4938",
+    "author": "dano",
     "version": "1.0.0",
     "main": "main.js",
     "type": "commonjs",
