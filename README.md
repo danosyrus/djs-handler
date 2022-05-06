@@ -15,8 +15,5 @@
 - Вставьте токен вашего бота и идентификатор владельца в поле [config.json](https://github.com/danodee/advanced-djs-handler/blob/main/src/config/config.json)
 - Выполните команду `npm i` для установки всех необходимых пакетов
 - Запустите `node main.js` для запуска бота
-## Credits
-- Made by : [dano](https://github.com/danodee)<br>
-- Start this repo & follow me for more cool & interesting projects :)
 
 ## Thanks, If You're Using This <3.
