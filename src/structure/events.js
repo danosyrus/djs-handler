@@ -1,10 +1,10 @@
 // Advanced djs slash command handler made with ❤️ by dano! [github.com/danodee]
-const { readdirSync } = require("fs");
+const fs = require("fs");
 
 module.exports = async(client) => {
 
-    client.events.forEach((dir) => {
-        let files = readdirSync(`${process.cwd()}/src/events/${dir}`).filter((file) => file.endsWith(".js"));
+    fs.readdirSync(`${process.cwd()}/src/events`).forEach((dir) => {
+        let files = fs.readdirSync(`${process.cwd()}/src/events/${dir}`).filter((file) => file.endsWith(".js"));
 
         for (let file of files) {
             let event = require(`${process.cwd()}/src/events/${dir}/${file}`)
