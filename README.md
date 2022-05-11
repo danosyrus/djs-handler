@@ -1,6 +1,6 @@
 ## Advanced djs slash command handler
 - Yet another advanced djs slash command handler made by dano with ❤️<br>
-- Blazing Fast, Efficient.
+- Blazing Fast and Efficient.
 
 ## Setting Up
 
