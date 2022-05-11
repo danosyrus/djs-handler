@@ -12,10 +12,6 @@ module.exports = async(client) => {
 
             client.commands.set(cmd.name, cmd);
             array.push(cmd);
-
-            if (cmd.aliases) {
-                cmd.aliases.map(x => client.commands.set(x, cmd))
-            }
         }
     })
     client.on("ready", async() => {
