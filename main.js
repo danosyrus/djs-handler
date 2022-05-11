@@ -3,7 +3,6 @@ require("module-alias/register");
 // ———————————————[Client Requirement]———————————————
 const { Client, Discord, Intents, Collection } = require("discord.js");
 const client = new Client({ intents: 32767 });
-
 const config = require("@config");
 // ———————————————[Client Export]———————————————
 module.exports = client;
