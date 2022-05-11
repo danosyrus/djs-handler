@@ -1,6 +1,6 @@
 ## Advanced djs slash command handler
 - Yet another advanced djs slash command handler made by dano with ❤️<br>
-- Ultimate, Efficient, Slash command handler for Discord bots.
+- Blazing Fast, Efficient.
 
 ## Setting Up
 
