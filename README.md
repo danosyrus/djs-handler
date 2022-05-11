@@ -1,6 +1,6 @@
 ## Advanced djs slash command handler
 - Yet another advanced djs slash command handler made by dano with ❤️<br>
-- Blazing Fast(Bots starts up and running within 10 seconds), Efficient.
+- Blazing Fast(Bots starts up and run within 10 seconds), Efficient.
 
 ## Setting Up
 
