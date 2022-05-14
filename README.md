@@ -10,5 +10,5 @@
 - Run `node main.js` to start the bot
 
 ## Dependencies Used
-- #[Chalk](https://www.npmjs.com/package/chalk)
+- [Chalk](https://www.npmjs.com/package/chalk)
 ## Thanks, If You're Using This :)
