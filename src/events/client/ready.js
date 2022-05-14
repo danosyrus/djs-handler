@@ -9,7 +9,7 @@ module.exports = {
         
         const activites = config.activites;
         let activity = 0;
-        await client.user.setPresence({ status: "dnd", activity: activites[0] });
+        await client.user.setPresence({ status: config.presence.status, activity: config.presence.activites[0] });
         setInterval(() => {
             activity++
             client.user.setActivity(activites[Math.floor(Math.random() * activites.length)])
