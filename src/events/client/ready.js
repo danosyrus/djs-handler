@@ -8,7 +8,7 @@ module.exports = {
     once: true,
     execute: async() => {
 
-        const activites = config.activites;
+        const activites = config.presence.activites;
         let activity = 0;
         await client.user.setPresence({ status: config.presence.status, activity: config.presence.activites[0] });
 
