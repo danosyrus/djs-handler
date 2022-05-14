@@ -9,4 +9,7 @@
 - Run `npm i` command to install all required packages
 - Run `node main.js` to start the bot
 
+## Dependencies Used
+- [chalk](https://www.npmjs.com/package/chalk)
+- 
 ## Thanks, If You're Using This :)
