@@ -11,4 +11,6 @@
 
 ## Dependencies Used
 - [Chalk](https://www.npmjs.com/package/chalk)
+- [Discord.Js](https://www.npmjs.com/package/discord.js)
+- [Module-Alias](https://www.npmjs.com/package/module-alias)
 ## Thanks, If You're Using This :)
