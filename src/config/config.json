@@ -1,6 +1,5 @@
 {
     "owner": "owner-id-goes-here",
     "token": "bot-token-goes-here",
-    "activites": [{ "name": "YouTube", "type": "WATCHING" }, { "name": "Minecraft", "type": "PLAYING" }],
     "presence": [{ "status": "dnd", "activites": [{ "name": "YouTube", "type": "WATCHING" }, { "name": "Minecraft", "type": "PLAYING" }] }],
 }
