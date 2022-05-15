@@ -9,7 +9,7 @@ module.exports = client;
 client.commands = new Collection();
 // Structure Intialization
 ["commands", "events"].forEach((file) => {
-    require(`@structures/${file}`)(client)
+    require(`@structures/${file}`)(client);
 });
 // ———————————————[Client Login]———————————————
 client.login(config.token);
