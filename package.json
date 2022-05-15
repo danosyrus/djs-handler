@@ -20,6 +20,6 @@
         "@config": "./src/config/config.json",
         "@commands": "./src/commands/",
         "@events": "./src/events/",
-        "@structures": "./src/structures/"
+        "@structures": "./src/structure/"
     }
 }
