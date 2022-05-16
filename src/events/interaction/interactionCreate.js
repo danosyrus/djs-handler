@@ -14,10 +14,10 @@ module.exports = {
                 return;
             }
 
-            if (command.mod) {
+            if (command.staff) {
                let role = config.staffRoleId;
                 if (!message.member._roles.some(r => role.includes(r))) {
-                  return message.reply({ content: "You don't have permissions to run this command!" })
+                  return;
                }; 
             };
 
