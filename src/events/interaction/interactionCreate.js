@@ -14,10 +14,11 @@ module.exports = {
                 return;
             }
 
-            if (command.owner) {
-                if (!config.owner.includes(interaction.user.id)) {
-                    return;
-                }
+            if (command.mod) {
+               let role = config.staffRoleId;
+                if (!message.member._roles.some(r => role.includes(r))) {
+                  return message.reply({ content: "You don't have permissions to run this command!" })
+               }; 
             };
 
             if (command.userpermissions) {
