@@ -15,8 +15,8 @@ module.exports = {
             }
 
             if (command.staff) {
-               let role = config.staffRoleId;
-                if (!message.member._roles.some(r => role.includes(r))) {
+               let role = config.teamId;
+                if (!role.includes(message.author.id)) {
                   return;
                }; 
             };
