@@ -1,5 +1,5 @@
 {
-    "owner": "owner-id-goes-here",
+    "teamId": [],
     "token": "bot-token-goes-here",
     "presence": {
         "status": "dnd",
