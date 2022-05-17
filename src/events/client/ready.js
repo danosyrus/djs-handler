@@ -1,4 +1,3 @@
-// Advanced djs slash command handler made with ❤️ by dano! [github.com/danodee]
 const { green, white, cyanBright } = require("chalk");
 const config = require("@config");
 const client = require("@root");
