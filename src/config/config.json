@@ -1,5 +1,5 @@
 {
-    "developersId": ["developer-discord-user-id","developer-discord-user-id"],
+    "developersId": ["developer-discord-user-id-goes-here","developer-discord-user-id-goes-here"],
     "token": "bot-token-goes-here",
     "presence": {
         "status": "dnd",
