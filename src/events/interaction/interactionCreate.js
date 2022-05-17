@@ -14,8 +14,8 @@ module.exports = {
                 return;
             }
 
-            if (command.staff) {
-               let role = config.teamId;
+            if (command.developersCmd) {
+               let role = config.developersId;
                 if (!role.includes(message.author.id)) {
                   return;
                }; 
