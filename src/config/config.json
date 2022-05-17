@@ -1,5 +1,5 @@
 {
-    "teamId": ["development-team-users-id-goes-here"],
+    "developersId": ["developers-ids"],
     "token": "bot-token-goes-here",
     "presence": {
         "status": "dnd",
