@@ -1,6 +1,6 @@
-## Advanced djs slash command handler
-- Yet another advanced [discord.js](https://discord.js.org/) handler made by dano with ❤️<br>
-- Blazing Fast and Efficient.
+## Advanced Discord.js Handler
+- Yet Another Advanced [discord.js](https://discord.js.org/) Handler Made With ❤️<br>
+- Blazing Fast & Efficient.
 
 ## Setting Up
 
