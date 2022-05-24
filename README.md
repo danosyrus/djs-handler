@@ -1,5 +1,5 @@
 ## Advanced [Discord.Js](https://www.npmjs.com/package/discord.js) Handler
-- Yet Another Advanced [discord.js](https://discord.js.org/) Handler Made With ❤️<br>
+- Yet Another Advanced [Discord.js](https://discord.js.org/) Handler Made With ❤️<br>
 - Blazing Fast & Efficient.
 
 ## Setting Up
