@@ -14,8 +14,8 @@ module.exports = {
             }
 
             if (command.developersCmd) {
-               let role = config.developersId;
-                if (!role.includes(message.author.id)) {
+               let developersId = config.client.developersId;
+                if (!developersId.includes(message.author.id)) {
                   return;
                }; 
             };
