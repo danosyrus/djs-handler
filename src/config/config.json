@@ -1,8 +1,10 @@
 {
-    "developersId": ["developer-discord-user-id-goes-here","developer-discord-user-id-goes-here"],
-    "token": "bot-token-goes-here",
-    "presence": {
-        "status": "dnd",
-        "activites": [{ "name": "YouTube", "type": "WATCHING" }, { "name": "Minecraft", "type": "PLAYING" }]
-    },
+    "client": {
+        "developersId": ["developer-discord-user-id-goes-here", "developer-discord-user-id-goes-here"],
+        "presence": {
+            "status": "online",
+            "activites": [{ "name": "YouTube", "type": "WATCHING" }, { "name": "Minecraft", "type": "PLAYING" }]
+        },
+        "token": "bot-token-goes-here"
+    }
 }
