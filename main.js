@@ -12,5 +12,5 @@ client.commands = new Collection();
     require(`@structures/${file}`)(client);
 });
 // ———————————————[Client Login]———————————————
-client.login(config.token);
+client.login(config.client.token);
 
