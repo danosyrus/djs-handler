@@ -9,7 +9,8 @@
     "dependencies": {
         "chalk": "^4.1.2",
         "discord.js": "^13.6.0",
-        "module-alias": "^2.2.2"
+        "module-alias": "^2.2.2",
+        "mongoose": "^6.3.5"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,6 +21,8 @@
         "@config": "./src/config/config.json",
         "@commands": "./src/commands/",
         "@events": "./src/events/",
-        "@structures": "./src/structure/"
+        "@structures": "./src/structure/",
+        "@utils": "./src/utils/utils.js",
+        "@schemas": "./src/database/schemas/"
     }
 }
