@@ -10,8 +10,8 @@
 - Run `node main.js` to start the bot
 
 ## Dependencies Used
-- [chalk](https://www.npmjs.com/package/chalk)
-- [discord.Js](https://www.npmjs.com/package/discord.js)
-- [module-alias](https://www.npmjs.com/package/module-alias)
-- [mongoose](https://www.npmjs.com/package/mongoose)
+- [Chalk](https://www.npmjs.com/package/chalk)
+- [Discord.Js](https://www.npmjs.com/package/discord.js)
+- [Module-alias](https://www.npmjs.com/package/module-alias)
+- [Mongoose](https://www.npmjs.com/package/mongoose)
 ## Thanks, If You're Using This :)
