@@ -1,9 +1,14 @@
 {
     "client": {
+        "publicBot": true,
         "developersId": ["developer-discord-user-id-goes-here", "developer-discord-user-id-goes-here"],
         "presence": {
             "status": "online",
             "activites": [{ "name": "YouTube", "type": "WATCHING" }, { "name": "Minecraft", "type": "PLAYING" }]
+        },
+        "database": {
+            "enabled": true,
+            "url": "database-url-goes-here(mongoDB)"
         },
         "token": "bot-token-goes-here"
     }
