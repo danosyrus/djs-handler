@@ -15,4 +15,4 @@
 - [Discord.Js](https://www.npmjs.com/package/discord.js)
 - [Module-alias](https://www.npmjs.com/package/module-alias)
 - [Mongoose](https://www.npmjs.com/package/mongoose)
-## Thanks, If You're Using This :)
+## Star this repo if you're using this!
