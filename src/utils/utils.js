@@ -4,7 +4,7 @@ const moment = require("moment");
 
 module.exports.log = (args) => {
     const date = `[${moment().format("DD-MM-YY ~ H:m:s")}]`
-    console.log(blueBright.bold(date) + whiteBright.bold(" = ") + greenBright.bold("[Log]: ") + whiteBright.bold(args))
+    console.log(blueBright.bold(date) + whiteBright.bold(" - ") + greenBright.bold("[LOG]: ") + whiteBright.bold(args))
 };
 
 module.exports.embed = async(embed) => {
