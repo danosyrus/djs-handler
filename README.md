@@ -10,7 +10,7 @@
 - Run `npm i` command to install all required packages
 - Run `node main.js` to start the bot
 
-## Dependencies Used:
+## 🖇️ Dependencies Used:
 - [Chalk](https://www.npmjs.com/package/chalk)
 - [Discord.Js](https://www.npmjs.com/package/discord.js)
 - [Module-alias](https://www.npmjs.com/package/module-alias)
