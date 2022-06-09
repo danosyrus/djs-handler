@@ -20,7 +20,7 @@ git clone https://github.com/danodee/djs-handler.git
 - [Mongoose](https://www.npmjs.com/package/mongoose)
 - [Moment](https://www.npmjs.com/package/moment)
 
-🌟 Support this project by giving star to this repo. Kthnx!
-
 ## License
 [MIT](https://github.com/danodee/djs-handler/blob/main/LICENSE)
+
+🌟 Support this project by giving star to this repo. Kthnx!
