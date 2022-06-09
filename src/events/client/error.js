@@ -1,17 +1,17 @@
-const { red } = require("chalk");
+const client = require("@root");
 
 process.on("unhandledRejection", (error) => {
-    console.error(red.bold(error));
+    client.utils.log(error);
 });
 
 process.on("uncaughtException", (error) => {
-    console.error(red.bold(error));
+    client.utils.log(error);
 });
 
 process.on("exit", error => {
-    console.error(red.bold(error));
+    client.utils.log(error);
 });
 
 process.on("multipleResolves", (error) => {
-    console.error(red.bold(error));
+    client.utils.log(error);
 });
