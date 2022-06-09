@@ -16,5 +16,4 @@
 - [Module-alias](https://www.npmjs.com/package/module-alias)
 - [Mongoose](https://www.npmjs.com/package/mongoose)
 - [Moment](https://www.npmjs.com/package/moment)
-- 
-## 🌟 Star this repo if you're using this!
+## 🌟 Support this project by giving star to this repo. Kthnx!
