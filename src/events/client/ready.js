@@ -14,6 +14,6 @@ module.exports = {
             activity++
             client.user.setActivity(activites[Math.floor(Math.random() * activites.length)])
         }, 120000);
-         client.utils.log("ONLINE")
+         client.utils.log("CLIENT ONLINE")
     },
 };
