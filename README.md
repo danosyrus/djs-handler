@@ -5,7 +5,7 @@
 
 ## 🚧 Setting Up
 
-- Clone this repo 
+- Clone this repository
 ```bash 
 git clone https://github.com/danodee/djs-handler.git
 ```
