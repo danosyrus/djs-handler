@@ -7,6 +7,7 @@
     "license": "UNLICENSED",
     "private": true,
     "dependencies": {
+        "moment": "^2.29.3",
         "chalk": "^4.1.2",
         "discord.js": "^13.6.0",
         "module-alias": "^2.2.2",
