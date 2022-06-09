@@ -3,7 +3,7 @@
 - Highly & Easily Configurable.
 - Better Logs.
 
-## Setting Up
+## 🚧 Setting Up
 
 - Clone this repo `git clone https://github.com/danodee/djs-handler.git`
 - Configure bot in [config.json](https://github.com/danodee/advanced-djs-handler/blob/main/src/config/config.json)
