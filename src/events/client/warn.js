@@ -1,7 +1,9 @@
+const client = require("@root");
+
 module.exports = {
     name: "warn",
     once: false,
     execute: async(error) => {
-        console.warn(error)
+       client.utils.log(error)
     },
 };
