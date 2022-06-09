@@ -1,4 +1,3 @@
-const { green, white, cyanBright } = require("chalk");
 const config = require("@config");
 const client = require("@root");
 
@@ -15,6 +14,6 @@ module.exports = {
             activity++
             client.user.setActivity(activites[Math.floor(Math.random() * activites.length)])
         }, 120000);
-        console.log(white.bold("[") + green.bold("STATUS") + white.bold("] ") + cyanBright.bold("ONLINE"));
+         client.utils.log("ONLINE")
     },
 };
