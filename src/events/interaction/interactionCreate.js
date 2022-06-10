@@ -15,7 +15,7 @@ module.exports = {
 
             if (command.developersCmd) {
                let developersId = config.client.developersId;
-                if (!developersId.includes(message.author.id)) {
+                if (!developersId.includes(interaction.user.id)) {
                   return;
                }; 
             };
