@@ -1,6 +1,5 @@
 {
     "client": {
-        "publicBot": true,
         "name": "advanced-djs-handler",
         "developersId": ["developer-discord-user-id-goes-here", "developer-discord-user-id-goes-here"],
         "presence": {
