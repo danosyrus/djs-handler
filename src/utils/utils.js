@@ -3,7 +3,7 @@ const { MessageEmbed } = require("discord.js");
 const moment = require("moment");
 
 module.exports.log = (args) => {
-    const date = `[${moment().format("DD-MM-YY ~ H:m:s")}]`
+    const date = `[${moment().format("DD-MM-YY ~ H:m")}]`
     console.log(blueBright.bold(date) + whiteBright.bold(" - ") + greenBright.bold("[LOG]: ") + whiteBright.bold(args))
 };
 
