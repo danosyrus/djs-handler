@@ -6,7 +6,7 @@
 - Multi-Language Support.
 
 ## 🚧 Installation Guide
-- Install Node.js v16.6 or higher
+- Install Node.js v16.6 or higher+
 - Clone this repository
 - Configure bot in [config.json](https://github.com/danodee/advanced-djs-handler/blob/main/src/config/config.json)
 - Run `npm i` command to install all required packages
