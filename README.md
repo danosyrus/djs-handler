@@ -1,4 +1,4 @@
-## 🤖 Advanced [Discord.Js](https://www.npmjs.com/package/discord.js) Handler
+## 🤖 [Discord.Js](https://www.npmjs.com/package/discord.js) Handler
 - Blazing Fast & Efficient.
 - Highly & Easily Configurable.
 - Better Logs.
