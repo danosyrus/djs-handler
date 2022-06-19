@@ -6,7 +6,6 @@
 - Multi-Language Support.
 
 ## 🚧 Installation Guide
-
 - Clone this repository
 ```bash 
 git clone https://github.com/danodee/djs-handler.git
