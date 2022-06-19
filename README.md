@@ -6,6 +6,7 @@
 - Multi-Language Support.
 
 ## 🚧 Installation Guide
+- Install Node.js v16.6 or higher
 - Clone this repository
 ```bash 
 git clone https://github.com/danodee/djs-handler.git
