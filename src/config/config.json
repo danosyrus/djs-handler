@@ -6,6 +6,10 @@
             "status": "online",
             "activites": [{ "name": "YouTube", "type": "WATCHING" }, { "name": "Minecraft", "type": "PLAYING" }]
         },
+        "language": {
+            "defaultLocale": "en",
+            "directory": "./src/languages"
+        },
         "database": {
             "enabled": true,
             "url": "database-url-goes-here(mongoDB)"

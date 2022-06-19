@@ -6,5 +6,8 @@ module.exports = {
     botpermissions: ["SEND_MESSAGES", "VIEW_CHANNEL"],
     run: async(client, interaction) => {
 
+        await interaction.editReply({
+            content: client.i18n.get("en", "commands", "var1")
+        });
     },
 };

@@ -14,10 +14,10 @@ module.exports = {
             }
 
             if (command.developersCmd) {
-               let developersId = config.client.developersId;
+                let developersId = config.client.developersId;
                 if (!developersId.includes(interaction.user.id)) {
-                  return;
-               }; 
+                    return;
+                };
             };
 
             if (command.userpermissions) {
@@ -33,7 +33,6 @@ module.exports = {
             };
 
             await command.run(client, interaction);
-
         }
     },
 };
