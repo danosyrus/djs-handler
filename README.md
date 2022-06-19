@@ -2,6 +2,7 @@
 - Blazing Fast & Efficient.
 - Highly & Easily Configurable.
 - Better Logs.
+- Well Organized
 
 ## 🚧 Setting Up
 
