@@ -17,4 +17,4 @@ client.utils = require("@utils");
 client.database = require("./src/database/main");
 require("./src/database/main");
 // ———————————————[Client Login]———————————————
-client.login(config.client.token);
+client.login(config.client.devMode.enabled ? config.client.devMode.token : config.client.token);

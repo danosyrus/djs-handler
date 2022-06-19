@@ -10,6 +10,10 @@
             "enabled": true,
             "url": "database-url-goes-here(mongoDB)"
         },
+        "devMode": {
+            "enabled": false,
+            "token": "development-bot-token-goes-here"
+        },
         "token": "bot-token-goes-here"
     }
 }
