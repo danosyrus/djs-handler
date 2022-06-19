@@ -5,7 +5,7 @@
 - Well Organized.
 - Multi-Language Support.
 
-## 🚧 Setting Up
+## 🚧 Installation Guide
 
 - Clone this repository
 ```bash 
