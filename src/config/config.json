@@ -1,6 +1,6 @@
 {
     "client": {
-        "name": "advanced-djs-handler",
+        "name": "djs-handler",
         "developersId": ["developer-discord-user-id-goes-here", "developer-discord-user-id-goes-here"],
         "presence": {
             "status": "online",
