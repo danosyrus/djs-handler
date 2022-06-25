@@ -18,7 +18,7 @@ npm i
 ```
 5. Start the bot:
 ```bash
-npm i
+node .
 ```
 
 ## License
