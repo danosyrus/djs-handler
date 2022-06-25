@@ -12,8 +12,14 @@
 git clone https://github.com/dano235/djs-handler.git
 ```
 3. Configure bot in [config.json](https://github.com/danodee/advanced-djs-handler/blob/main/src/config/config.json)
-4. Run `npm i` command to install all required packages
-5. Run `node main.js` or `node .` to start the bot
+4. Install all required packages:
+```bash
+npm i
+```
+5. Start the bot:
+```bash
+npm i
+```
 
 ## License
 [MIT](https://github.com/danodee/djs-handler/blob/main/LICENSE)
