@@ -17,10 +17,6 @@ git clone https://github.com/dano235/djs-handler.git
 npm i
 ```
 5. Start the bot:
-(use second method if `node .` doesn't work!)
-```bash
-node .
-```
 ```bash
 node main.js
 ```
