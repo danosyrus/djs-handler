@@ -9,7 +9,7 @@
 1. Install Node.js v16.6 or higher+
 2. Clone this repository
 ```bash
-git clone https://github.com/dano235/djs-handler.git
+git clone git@github.com:dano235/djs-handler.git
 ```
 3. Configure bot in [config.json](https://github.com/danodee/advanced-djs-handler/blob/main/src/config/config.json)
 4. Run `npm i` command to install all required packages
