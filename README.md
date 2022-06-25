@@ -20,6 +20,9 @@ npm i
 ```bash
 node .
 ```
+```bash
+node main.js
+```
 
 ## License
 [MIT](https://github.com/danodee/djs-handler/blob/main/LICENSE)
