@@ -21,4 +21,4 @@ npm i
 node main.js
 ```
 
-## [License](https://github.com/danodee/djs-handler/blob/main/LICENSE)
+## [MIT License](https://github.com/danodee/djs-handler/blob/main/LICENSE)
