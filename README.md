@@ -22,4 +22,3 @@ node main.js
 ```
 
 ## [License](https://github.com/danodee/djs-handler/blob/main/LICENSE)
-[MIT](https://github.com/danodee/djs-handler/blob/main/LICENSE)
