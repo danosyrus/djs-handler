@@ -1,11 +1,11 @@
-## 🤖 [Discord.Js](https://www.npmjs.com/package/discord.js) Handler
+## [Discord.Js](https://www.npmjs.com/package/discord.js) Handler
 - Blazing Fast & Efficient.
 - Highly & Easily Configurable.
 - Better Logs.
 - Well Organized.
 - Multi-Language Support.
 
-## 🚧 Installation Guide
+## Installation Guide
 1. Install [Node.js v16.6](https://nodejs.org) or higher
 2. Clone this repository
 ```bash
